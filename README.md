@@ -21,6 +21,6 @@ All analysis was conducted in Power BI, with Power Query used for data cleaning 
 ## Repository Structure
 - Project Brief: Business context, objectives, and analytical questions
 - Power BI Report: Interactive dashboards addressing assessment requirements
-- Strategic Presentation: Executive-level insights and recommendations
+- Presentation: Executive-level insights and recommendations
 
 
