@@ -64,6 +64,7 @@ All monetary values were validated and analyzed in U.S. currency.
 
 •	Business Relevance: Insights linked directly to economic context and commercial implications
 ## Project Deliverables
-•	Power BI Report – Interactive dashboards addressing all questions in Sections A and B
-•	Presentation – Executive-level summary of insights and recommendations
+- Power BI Report – Interactive dashboards addressing all questions in Sections A and B
+- Presentation – Executive-level summary of insights and recommendations
+  
 
