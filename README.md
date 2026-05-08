@@ -13,14 +13,14 @@ All analysis was conducted in Power BI, with Power Query used for data cleaning 
     
 ## Key Insights 
 - Germany demonstrates consistent revenue growth, driven by increasing quantities sold and higher average selling prices.
-- U.S. revenue declined sharply during 2008–2009, reflecting reduced demand during the financial crisis, with gradual recovery in subsequent years.
+- U.S. revenue declined sharply during 2008–2009, reflecting reduced demand during the financial crisis, with a gradual recovery in subsequent years.
 - A small number of product categories generate the majority of revenue, while certain products consistently underperform.
 - Off-Road Bikes contributed a significant share of 2011 sales, with select cities performing well above the average.
 - Some products exhibit weak or absent seasonality, contrary to expected bicycle purchasing patterns.
 
 ## Repository Structure
-- Project Brief: Business context, objectives, and analytical questions
 - Power BI Report: Interactive dashboards addressing assessment requirements
 - Presentation: Executive-level insights and recommendations
+- Project Brief: Business context, objectives, and analytical questions
 
 
